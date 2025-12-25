@@ -156,48 +156,46 @@ restaurant_details = {
 
 ## Workflow Timeline
 
-### Hierarchical Execution (30-50 minutes)
+### Hierarchical Execution 
 ```
 00:00 - Manager Planning
 ├─ Analyzes restaurant context
 ├─ Plans optimal workflow
 └─ Assigns initial tasks
 
-00:02 - Review Collection (8-12 min)
+00:02 - Review Collection
 ├─ Search multiple platforms
 ├─ Collect 25-35 reviews
 ├─ Manager reviews collection
 └─ If insufficient, request more
 
-00:14 - Sentiment Analysis (8-12 min)
+00:14 - Sentiment Analysis 
 ├─ Analyze all reviews
 ├─ Identify patterns
 ├─ May consult collector for clarification
 ├─ Manager reviews sentiment findings
 └─ Approve or request deeper analysis
 
-00:26 - Competitive Analysis (8-12 min)
+00:26 - Competitive Analysis 
 ├─ Research competitors
 ├─ Compare performance
 ├─ May request sentiment data for context
 ├─ Manager reviews competitive positioning
 └─ Approve findings
 
-00:38 - Insights Generation (8-12 min)
+00:38 - Insights Generation
 ├─ Synthesize all findings
 ├─ Consult all agents for comprehensive view
 ├─ Develop recommendations
 ├─ Manager reviews strategy
 └─ Refine based on feedback
 
-00:50 - Report Creation (6-10 min)
+00:50 - Report Creation 
 ├─ Compile all sections
 ├─ May request clarifications from any agent
 ├─ Format professionally
 ├─ Manager final review
 └─ Deliver executive report
-
-Total: 38-58 minutes (with manager coordination)
 ```
 
 ## The Five Agents Explained
